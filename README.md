@@ -2,3 +2,5 @@
 
 - 🌱 I’m currently learning javascript
 - ⚡ Fun fact: I started coding in october
+- Currently learning: tensorflow
+
